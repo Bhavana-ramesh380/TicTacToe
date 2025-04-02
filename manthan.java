@@ -1,0 +1,10 @@
+if(a>b)
+{
+    max=a;
+    d=a-b;
+else
+{
+    max=b;
+d=b-a;
+}
+}
